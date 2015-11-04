@@ -1,0 +1,26 @@
+{
+  "name": "ionic-rating-minify",
+  "main": "ionic-rating-minify.js",
+  "version": "0.0.3",
+  "location": "https://github.com/dMartinezAyuso/ionic-rating-minify",
+  "homepage": "https://github.com/dMartinezAyuso/ionic-rating-minify",
+  "authors": [
+    "fraserxu <xvfeng123@gmail.com>",
+    "dMartinezAyuso <diego.martinez.ayuso@gmail.com"
+  ],
+  "description": "Star rating bar for ionic",
+  "keywords": [
+    "ionic",
+    "angularjs",
+    "rating",
+    "web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
