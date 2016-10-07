@@ -1,5 +1,7 @@
 (function() {
-
+    
+    RatingController.$inject=['$scope','$attrs','ratingConfig'];
+    
     function RatingController($scope, $attrs, ratingConfig) {
         var ngModelCtrl;
         ngModelCtrl = {
